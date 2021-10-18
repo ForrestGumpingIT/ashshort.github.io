@@ -1,0 +1,66 @@
+body {
+	background-color:#778899
+}
+
+  
+  
+@media(min-width:750px){
+.container-1{
+	display:flex;
+    text-align:center;
+	justify-content:cen;
+}
+}
+.box-1{
+	flex:1;
+	background:#778899;
+	font-size:100%;
+}
+.box-2{
+	flex:1;
+	font-size:100%;
+}
+.box-3{
+	flex:1;
+	background:#778899;
+	font-size:100%;
+	
+	
+}
+
+p{
+	color:black;
+	font-family:Georgia;
+	text-align: center;
+}
+body{
+	background:#BDB76B;
+	
+}
+
+
+h2 {
+	text-align: center
+	text-shadow: 2px 2px;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	
+	
+}
+
+h1 {
+  text-shadow: 2px 2px
+  font-size; 200%;
+}
+
+ul {
+	font-size: 18px;
+}
+ 
+
